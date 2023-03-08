@@ -10,8 +10,8 @@ function Logo(props: any) {
         alt="logo"
       /> */}
       <h1 className="text-lg">
-        <span className="text-[#ff5800] text-3xl">e</span>
-        <span>nnawi</span>
+        <span className="text-[#ff5800] text-3xl">a</span>
+        <span>Kennawi</span>
       </h1>
     </div>
   );
